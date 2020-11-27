@@ -10,7 +10,7 @@ Add this lines to your webpage.
 
 ```sh
 <script>id="UC8Z-VjXBtDJTvq6aqkIskPg"; width="640"; height="490";</script>
-<script type="text/javascript" src="https://raw.githubusercontent.com/cseandro/youtube-live-permanent-embeed/main/ytlive-embed.js"></script>
+<script type="text/javascript" src="https://cseandro.github.io/youtube-live-permanent-embeed/ytlive-embed.js"></script>
 ```
 
 For reference...
