@@ -9,11 +9,8 @@ USE THIS JS FILE TO EMBED LIVE STREAMING OF A YOUTUBE CHANNEL AUTOMATICALLY.
 Add this lines to your webpage.
 
 ```sh
-<script>
-id="UC8Z-VjXBtDJTvq6aqkIskPg"; width="640"; height="490";
-
-document.write('<iframe width="'+width+'" height="'+height+'" src="https://www.youtube.com/embed/live_stream?channel='+id+'" frameborder="0" allow="accelerometer; autoplay; modestbranding; encrypted-media; gyroscope; picture-in-picture" frameborder="0"  style="margin:0px;padding:0px;overflow:hidden" allowfullscreen></iframe>');
-</script>
+<script>id="UC8Z-VjXBtDJTvq6aqkIskPg"; width="640"; height="490";</script>
+<script type="text/javascript" src="https://cseandro.github.io/youtube-live-permanent-embeed/ytlive-embed.js"></script>
 
 ```
 
